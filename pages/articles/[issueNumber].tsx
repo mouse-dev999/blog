@@ -26,14 +26,6 @@ const ShowArticle: NextPage<Props> = ({ issue, issueComments }) => {
           <Time dateTime={issue.created_at} />
           <h1>{issue.title}</h1>
         </header>
-<!--         <aside>
-          <p>
-            Posted by&nbsp;
-            <Link href={issue.user.html_url}>{issue.user.login}</Link>
-            &nbsp;at&nbsp;
-            <Link href={issue.html_url}>{`#${issue.number}`}</Link>.
-          </p>
-        </aside> -->
         <div dangerouslySetInnerHTML={{ __html: issue.bodyHTML }}></div>
       </section>
       {issueComments.map((issueComment) => (
