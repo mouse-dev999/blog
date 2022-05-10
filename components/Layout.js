@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
 
-const siteTitle = "Mouse's Blog";
+const siteTitle = "mouse-mouse-mouse";
 
 export default function Layout({ children }) {
   return (
