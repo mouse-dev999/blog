@@ -1,0 +1,71 @@
+---
+active_lock_reason: 
+assignee: 
+assignees: []
+author_association: OWNER
+closed_at: 
+comments: 0
+comments_url: https://api.github.com/repos/mouse-dev999/blog/issues/1/comments
+created_at: '2022-05-08T13:22:08Z'
+events_url: https://api.github.com/repos/mouse-dev999/blog/issues/1/events
+html_url: https://github.com/mouse-dev999/blog/issues/1
+id: 1228887172
+labels: []
+labels_url: https://api.github.com/repos/mouse-dev999/blog/issues/1/labels{/name}
+locked: false
+milestone: 
+node_id: I_kwDOHTPrzc5JP1SE
+number: 1
+performed_via_github_app: 
+reactions:
+  "+1": 0
+  "-1": 0
+  confused: 0
+  eyes: 0
+  heart: 0
+  hooray: 0
+  laugh: 0
+  rocket: 0
+  total_count: 0
+  url: https://api.github.com/repos/mouse-dev999/blog/issues/1/reactions
+repository_url: https://api.github.com/repos/mouse-dev999/blog
+state: open
+state_reason: 
+timeline_url: https://api.github.com/repos/mouse-dev999/blog/issues/1/timeline
+title: 無職生活 Second Seasonの打ち切り
+updated_at: '2022-10-16T11:08:30Z'
+url: https://api.github.com/repos/mouse-dev999/blog/issues/1
+user:
+  avatar_url: https://avatars.githubusercontent.com/u/104954281?v=4
+  events_url: https://api.github.com/users/mouse-dev999/events{/privacy}
+  followers_url: https://api.github.com/users/mouse-dev999/followers
+  following_url: https://api.github.com/users/mouse-dev999/following{/other_user}
+  gists_url: https://api.github.com/users/mouse-dev999/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/mouse-dev999
+  id: 104954281
+  login: mouse-dev999
+  node_id: U_kgDOBkF5qQ
+  organizations_url: https://api.github.com/users/mouse-dev999/orgs
+  received_events_url: https://api.github.com/users/mouse-dev999/received_events
+  repos_url: https://api.github.com/users/mouse-dev999/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/mouse-dev999/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/mouse-dev999/subscriptions
+  type: User
+  url: https://api.github.com/users/mouse-dev999
+
+---
+無職化して１週間程度経過した。
+
+…が、既に新たな仕事を別のところから頂けており、無職生活はもう終了する。無職が決まった時は半年程度の無職生活を考えていたが、よく考えたら６月に予定している手術で多少資金がいるため、冒険せずに無難に働いておこう、と判断した。
+
+この１週間は世間がGWだったこともあり、あまり無職感がない無職期間だったのは心残りだが、良いリフレッシュとなった。
+
+今回はフリーランスの醍醐味とも言える、「いきなり仕事がなくなる」を体験した。クライアントの事業レベルでの方針転換ゆえに仕事がなくなった感じであった。あまりそういうレベルのことは起きないだろうと踏んでたが、まあ起きる時には普通に起きるんですね、と分からされた。外部委託ではなく正式なジョインはどうか、みたいな話はあったが、あまり一社にコミットし続ける感覚を今は持てずまだブラブラしてたい感じもあった。
+
+次はクラウド周りの仕事で、インフラになる。客先折衝や要件定義などの上流やアプリケーションレベルの設計・実装が中心だったため、インフラ周りの経験はないとは言わないが少なく、もうちょっとここの経験を増やしたいという希望が通った。
+
+基本的にいわゆる「フルスタックエンジニア」というのは成熟した（＝分業化が進んだ）組織では活かしにくい特性だと思う。反面、0->1なフェーズの会社では重宝される要員ではある。今は自分で事業を立ち上げて云々という方向を考えているので、博打感はあるが手薄な分野を補強しに行った。
+
+東京では年収1000万程度だとあまり良い生活はできないな、と強く感じるイベントがあり、今は多少お金に対する意欲が強くなっている。しかし会社員はもちろん、フリーランスでも自分が労働する限りは、やはり年収（年商）は1000万円台が限度なことが多く、どうせ労働するなら雇われではなく、自分でビジネスをしなくては…という考えになっている（数千万円級のエンジニアは存在するのでエンジニアリング道を極める、という進路もあり得るが、そこへの到達よりビジネスした方がまだ可能性がある、と踏んだ）。幸い、ビジネスサイドに強い元同僚と組めたので、やっていきたい。
